@@ -482,21 +482,20 @@ This project is developed as an academic requirement. If you'd like to contribut
 ## 👨‍💻 Developed By
 
 **CYCLUZ** — Web Systems 3 Project
-Partido State University — Naga Campus
+**Camarines Sur Polytechnic Colleges — Nabua Campus**
 Academic Year 2025–2026
 
 ---
 
 ## 📄 License
-
-This project is developed for academic purposes under **Partido State University**.
+This project is developed for academic purposes under **Camarines Sur Polytechnic Colleges**.
 All rights reserved © 2026 CYCLUZ.
 
 ---
 
 <div align="center">
 
-Made with ❤️ using **Node.js** · **Express** · **MySQL** · **EJS**
+Made with ❤️ using **Node.js** · **Express** · **MySQL** · **HTML** · **CSS** · **JS** · **EJS**
 
 ⭐ If this project helped you, give it a star on GitHub!
 
